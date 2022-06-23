@@ -1,6 +1,4 @@
-/*
- * C program to Convert Decimal to Hexadecimal
- */
+
 #include <stdio.h>
  
 int main()

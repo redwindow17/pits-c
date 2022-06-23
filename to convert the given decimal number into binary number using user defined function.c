@@ -1,7 +1,7 @@
 #include<stdio.h>    
 #include<stdlib.h>  
 int main(){  
-int a[100],n,i;    
+int a[10],n,i;    
 system ("cls");  
 printf("Enter the number to convert: ");    
 scanf("%d",&n);    

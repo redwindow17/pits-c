@@ -1,6 +1,4 @@
-/*
- * C Program to Print Armstrong Number from 1 to 1000
- */
+
 #include <stdio.h>
  
 main()
@@ -9,7 +7,7 @@ main()
  
     printf("Print all Armstrong numbers between 1 and 1000:\n");
     number = 001;
-    while (number <= 900)
+    while (number <= 1000)
     {
         digit1 = number - ((number / 10) * 10);
         digit2 = (number / 10) - ((number / 100) * 10);
