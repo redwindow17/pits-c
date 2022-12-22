@@ -1,2 +1,1 @@
-# pits-c
-c programm 
+# c
